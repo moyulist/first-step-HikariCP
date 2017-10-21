@@ -1,2 +1,3 @@
 # first-step-HikariCP
-「はじめてのHikariCP」のソースコード
+「はじめてのHikariCP」に掲載したソースコードをこのリポジトリにまとめています。
+
